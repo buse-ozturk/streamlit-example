@@ -1,3 +1,4 @@
-altair
+yfinance
 pandas
-streamlit
+datetime
+
